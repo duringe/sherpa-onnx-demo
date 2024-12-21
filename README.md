@@ -20,6 +20,21 @@ python .\run.py
 
 
 
+## Building
+### Steps
+1. 创建venv环境
+```bash
+python -m venv your-porject-name
+```
+2. 下载依赖库
+```bash
+python -s -m pip install -r .\requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+3. 下载模型相关文件,放入run.py运行
+```bash
+python .\run.py
+```
+
 
 
 
