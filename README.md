@@ -3,7 +3,7 @@
 Basic demonstration from k2-fsa/sherpa-onnx project
 
 
-来自k2-fsa/sherpa-onnx项目的基础演示
+来自k2-fsa/sherpa-onnx项目的中英文tts模型运行基础演示
 
 
 ## Installation and Running
