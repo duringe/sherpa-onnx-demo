@@ -30,7 +30,7 @@ python -m venv your-porject-name
 ```bash
 python -s -m pip install -r .\requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-3. 下载模型相关文件,放入run.py运行
+3. 下载模型相关文件,放到同目录中,再运行run.py
 ```bash
 python .\run.py
 ```
